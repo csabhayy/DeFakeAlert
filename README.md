@@ -1,3 +1,3 @@
 # Deepfake Detection Engine
-The live demo below can be accessed from the website in the about section.
+A [web demo](https://huggingface.co/spaces/csabhay/deep-fake-detection) is integrated to Huggingface Spaces with Gradio.
 ![](https://github.com/csabhayy/DeFakeAlert/blob/master/deepfake.gif)
