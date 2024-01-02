@@ -6,5 +6,6 @@ A [web demo](https://huggingface.co/spaces/csabhay/deep-fake-detection) is integ
 In this Repository, we build a Deepfake Detection Engine using the facenet_pytorch Python library that provides implementations of deep learning models such as:
 - MTCNN
 >Used for face detection and alignment.
+
 -InceptionResnetV1
 >Used for detecting whether an image is fake or real.
